@@ -11,6 +11,7 @@ Each project is created to practice and understand different programming concept
 - Conditions (if-else)
 - Loops (while)
 - Logical
+- Functions
 
 ## 🚀 Author
 
