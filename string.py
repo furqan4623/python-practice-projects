@@ -8,3 +8,4 @@ print(len(name))
 str = "$ symbol $ "
 print("You have ", str)
 print(str.count("$"))
+
