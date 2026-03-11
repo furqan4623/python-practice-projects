@@ -12,6 +12,7 @@ Each project is created to practice and understand different programming concept
 - Loops (while)
 - Logical
 - Functions
+- Tuples and Lists
 
 ## 🚀 Author
 
