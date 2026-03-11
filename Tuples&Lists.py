@@ -36,3 +36,5 @@ tuple = (4, 5, 8, 8, 9)
 print(tuple) # Creating Tuples
 print(tuple.index(5)) #finding the element index
 print(tuple.count(8)) #count the duplicate element in tuple.
+
+
