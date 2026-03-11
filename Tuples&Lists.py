@@ -1,7 +1,7 @@
 #Creating Lists 
 marks = [85, 90, 40, 60, 80]
 print(len(marks)) # Looking for Lenght of marks 
-marks[0] = 65
+marks[0] = 65 # Assign a new value this operation use only list data type because it is mutable
 
 # How to Slice in list
 print(marks[0:3])
@@ -32,3 +32,7 @@ print(list)
 
 # Now I am start second most powerfull list with is refer by tuple and tuple is immutable function it is not change the value in indexing
 
+tuple = (4, 5, 8, 8, 9)
+print(tuple) # Creating Tuples
+print(tuple.index(5)) #finding the element index
+print(tuple.count(8)) #count the duplicate element in tuple.
