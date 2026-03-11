@@ -1,6 +1,7 @@
 #Creating Lists 
 marks = [85, 90, 40, 60, 80]
 print(len(marks)) # Looking for Lenght of marks 
+marks[0] = 65
 
 # How to Slice in list
 print(marks[0:3])
@@ -28,3 +29,6 @@ print(list)
 
 list.pop(2) # Remove the index value
 print(list)
+
+# Now I am start second most powerfull list with is refer by tuple and tuple is immutable function it is not change the value in indexing
+
