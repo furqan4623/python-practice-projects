@@ -19,3 +19,14 @@ if (copy_list == list):
     print("palindrome")
 else:
     print("not a palindrome")
+
+# Tuples Practice 
+
+grade = ("A", "A", "B", "B", "C",)
+print(grade.count("A")) #Counting the grade for elements chose
+
+
+grade1 = ["D", "F", "B", "A", "C", "E"]
+grade1.sort()
+print(grade1)
+
